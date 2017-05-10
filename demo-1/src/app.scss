@@ -1,0 +1,101 @@
+// body {
+//   font: 14px "Century Gothic", Futura, sans-serif;
+//   margin: 20px;
+// }
+// ol, ul {
+//   padding-left: 30px;
+// }
+// .board-row:after {
+//   clear: both;
+//   content: "";
+//   display: table;
+// }
+// .status {
+//   margin-bottom: 10px;
+// }
+// .square {
+//   background: #fff;
+//   border: 1px solid #999;
+//   float: left;
+//   font-size: 24px;
+//   font-weight: bold;
+//   line-height: 34px;
+//   height: 34px;
+//   margin-right: -1px;
+//   margin-top: -1px;
+//   padding: 0;
+//   text-align: center;
+//   width: 34px;
+// }
+// .square:focus {
+//   outline: none;
+// }
+// .kbd-navigation .square:focus {
+//   background: #ddd;
+// }
+// .game {
+//   display: flex;
+//   flex-direction: row;
+// }
+// .game-info {
+//   margin-left: 20px;
+// }
+button {
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    cursor: pointer;
+    outline: 0;
+}
+
+.board {
+    // padding: 20px;
+    margin-top: 20px;
+    background-color: lightblue;
+    border:1px solid #add8e6;
+}
+.board .commentContainer:not(:last-child){
+     margin-bottom: 20px;
+}
+.commentContainer {
+    margin: 20px 20px 15px;
+    background-color: #fff;
+}
+
+.commentText {
+    margin-bottom: 20px;
+}
+
+.button-primary {
+    border: 0;
+    background-color: rgb(51, 122, 183);
+    color: #fff;
+}
+
+.button-danger {
+    border: 0;
+    background-color: rgb(213, 83, 79);
+    color: #fff;
+    margin-left:10px;
+}
+
+.button-success {
+    background-color: rgb(92, 184, 92);
+    border: 0;
+    color: #fff;
+}
+
+.button-info {
+    background-color: rgb(91, 192, 222);
+    border: 0;
+    color: #fff;
+}
+
+textarea {
+    display: block;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 100px;
+    box-sizing: border-box;
+    resize: none;
+}

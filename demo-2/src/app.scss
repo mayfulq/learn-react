@@ -1,0 +1,52 @@
+#app{
+    width: 430px;
+    margin: 0 auto;
+    background-color: lightblue;
+    padding: 10px;
+}
+
+input {
+    box-sizing: border-box;
+    width: 200px;
+    height: 30px;
+    margin-right: 10px;
+    outline: 0;
+}
+button {
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    cursor: pointer;
+    outline: 0;
+    margin-right: 10px;
+}
+tr td:first-child{
+    width: 200px;
+}
+.button-primary {
+    border: 0;
+    background-color: rgb(51, 122, 183);
+    color: #fff;
+}
+
+.button-danger {
+    border: 0;
+    background-color: rgb(213, 83, 79);
+    color: #fff;
+   
+}
+
+.button-success {
+    background-color: rgb(92, 184, 92);
+    border: 0;
+    color: #fff;
+}
+
+.button-info {
+    background-color: rgb(91, 192, 222);
+    border: 0;
+    color: #fff;
+}
+.appTitle,.theadTitle{
+    color: #607d8b;
+}

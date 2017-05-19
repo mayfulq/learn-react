@@ -11,7 +11,7 @@ class StorePicker extends React.Component{
   goToStore(event){
     event.preventDefault();
     let storeId=this.refs.storeId.value;
-    this.props.history.push('/store/'+ storeId)
+    this.props.history.push('/learn-react/demo-3/build/store/'+ storeId)
   }
    
    

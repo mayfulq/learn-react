@@ -18,7 +18,7 @@ const Root =()=>(
     <Router history={history}>
        <div>
         <Switch>
-            <Route exact path="/" component={StorePicker} />
+            <Route exact path="/learn-react/demo-3/build/" component={StorePicker} />
             <Route exact path="/store/:storeId" component={App} />
             <Route component={NotFound} />
         </Switch>

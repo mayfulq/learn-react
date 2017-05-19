@@ -4,7 +4,7 @@
 
 >  2017-5-12 add：[demo-2](https://mayfulq.github.io/learn-react/demo-2/dist/index.html)
 
->  2017-5-19 add：[Demo-3](https://mayfulq.github.io/learn-react/demo-3/build/index.html)
+>  2017-5-19 add：[demo-3](https://mayfulq.github.io/learn-react/demo-3/build/index.html)
 
 
 

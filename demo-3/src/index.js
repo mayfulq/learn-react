@@ -19,7 +19,7 @@ const Root =()=>(
        <div>
         <Switch>
             <Route exact path="/learn-react/demo-3/build/" component={StorePicker} />
-            <Route exact path="/store/:storeId" component={App} />
+            <Route exact path="/learn-react/demo-3/build/store/:storeId" component={App} />
             <Route component={NotFound} />
         </Switch>
         </div>

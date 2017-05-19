@@ -1,4 +1,4 @@
-# [Demo-3](https://mayfulq.github.io/learn-react/demo-3/build/index.html)
+# [Demo-3](https://mayfulq.github.io/learn-react/demo-3/build)
 ### React版本: 15.5.4
 ### 工具: 
 
